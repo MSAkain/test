@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	padding: 0g;
+}
+
+.header {
+	background-color: #000;
+	font-size: 14px;
+	display: flex;
+}
